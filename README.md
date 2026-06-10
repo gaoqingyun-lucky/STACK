@@ -107,9 +107,6 @@ Training logs and model checkpoints are saved automatically:
 - `./log/{prefix}/` — TensorBoard logs and evaluation results
 - `./state/{prefix}/` — Model checkpoints and final state dicts
 
-## Citation
-
-If you use this code in your research, please cite the STACK paper.
 
 ## License
 
