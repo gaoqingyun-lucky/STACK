@@ -51,7 +51,7 @@ STACK/
 ## Datasets
 The code supports the following few-shot knowledge graph datasets:
 ### Original Dataset
-- **NELL-One**  [NELL/Wiki](https://github.com/xwhan/One-shot-Relational-Learning)
+- **NELL-One**  [NELL](https://github.com/xwhan/One-shot-Relational-Learning)
 - **FB15K-237** [FB15K-237](https://github.com/SongW-SW/REFORM)
 - **Wiki-One** [Wiki](https://github.com/xwhan/One-shot-Relational-Learning)
 ### Processed Dataset
