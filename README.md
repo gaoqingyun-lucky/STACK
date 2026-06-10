@@ -1,22 +1,6 @@
-# STACK: Semantic Type-Aware Convolutional Knowledge Graph Completion
+# STACK: Semi-Supervised Relation-Type-Aware Augmentation with Consistency Constraint for Few-Shot Knowledge Graph Completion
 
-This repository contains the official implementation of **STACK** (Semantic Type-Aware Convolutional Knowledge Graph Completion), a framework for few-shot knowledge graph completion that leverages entity type information to enhance relational learning.
-
-## Overview
-
-STACK addresses the few-shot knowledge graph completion (FKGC) problem by incorporating entity type semantics into the learning process. The framework consists of two main components:
-
-### MetaR (Meta Relational Learning)
-A meta-learning based approach that uses entity type information to augment few-shot relation learning. Key features:
-- **ATypeRank**: Entity type-aware ranking mechanism for relation matching
-- **Negative Sampling**: Enhanced negative sampling with type constraints
-- **Multi-task Learning**: Joint optimization of relation and type prediction
-
-### NPFKGC (Normalizing Flow for Knowledge Graph Completion)
-A normalizing flow-based approach for few-shot knowledge graph completion. Key features:
-- **Relational Path GNN**: Graph neural network for encoding relational paths
-- **Normalizing Flows**: Density estimation for relation representations
-- **Type-Aware Embedding**: Entity type information integrated into embeddings
+This repository contains the official implementation of **STACK**.
 
 ## Repository Structure
 
