@@ -46,7 +46,7 @@ STACK/
 
 ## Environment
 - GPU: RTX A6000 (recommended)
-- Memory: 128GB (recommended)
+- RAM: 128GB (recommended)
 
 ## Datasets
 The code supports the following few-shot knowledge graph datasets:
