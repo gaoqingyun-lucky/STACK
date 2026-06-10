@@ -74,7 +74,7 @@ python MetaR/main_ATypeRank_add_neg_multiple.py --dataset FB15K-One --data_path 
 python MetaR/main_ATypeRank_add_neg_multiple.py --dataset Wiki-One --data_path ./Wiki --few 5 --r_cos 0.8 --aug_hum 1
 ```
 
-### NPFKGC
+### NP-FKGC
 ```bash
 # NELL
 python NPFKGC/main_ATypeRank_add_neg.py --dataset NELL-One --data_path ./NELL --few 5
@@ -97,7 +97,7 @@ python MetaR/main_ATypeRank_add_neg_multiple.py --dataset FB15K-One --data_path 
 python MetaR/main_ATypeRank_add_neg_multiple.py --dataset Wiki-One --data_path ./Wiki --few 5 --r_cos 0.8 --aug_hum 1 --step test
 ```
 
-### NPFKGC
+### NP-FKGC
 ```bash
 # NELL
 python NPFKGC/main_ATypeRank_add_neg.py --dataset NELL-One --data_path ./NELL --few 5 --step test
